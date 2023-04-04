@@ -30,6 +30,11 @@ If the command is in our "command arsenal" we will execute it, if not we will se
 
 *read x | Cristiano* - variable decleration using scanning input from user.
 
+# Video
+
+
+https://user-images.githubusercontent.com/92720540/229749923-ed37ed68-ae63-4024-80aa-2ffcbacb4ffa.mp4
+
 
 # How to use our project:
 
